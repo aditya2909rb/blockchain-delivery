@@ -1,0 +1,6 @@
+flask
+requests
+requests
+requests
+Flask-SocketIO
+Flask-SocketIO
